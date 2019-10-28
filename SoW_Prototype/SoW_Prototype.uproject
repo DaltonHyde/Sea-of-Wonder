@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DA5B0A3B-4236-359C-A979-478017AED200}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SoW_Prototype",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
